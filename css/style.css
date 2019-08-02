@@ -1,0 +1,162 @@
+html {
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  /* Chrome all / Safari all */
+  -moz-user-select: none;
+  /* Firefox all */
+  -ms-user-select: none;
+  /* IE 10+ */
+  user-select: none;
+  /* Likely future */
+  scroll-behavior: smooth;
+}
+
+body{
+	font-family:'Roboto', sans-serif !important;
+	box-sizing: border-box;
+	padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #203262 !important;
+  
+}
+
+.navbar-brand{
+  color: #ffffff !important;
+}
+
+.logo{
+  
+  font-size: 1.2rem;
+}
+
+.logo-span{
+  color: #01B66B !important;
+  font-weight: bold !important;
+}
+
+.nav-link {
+  color: #ffffff !important;
+ 
+}
+
+.nav-link:hover{
+  color:  #01B66B !important;
+  
+}
+
+.navbar-toggler .navbar-toggler-icon{
+  color: rgb(107, 182, 20) !important;
+ 
+}
+
+.container{
+  box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 5px !important;
+  padding-top: 10px !important;
+  margin-top: 15px !important;
+}
+
+h1{
+  color:#203262;
+  
+}
+.header{
+  margin-top: 15px !important;
+  font-weight: bold;
+}
+
+.header__span{
+  color: #ffffff;
+  background-color: #203262;
+  font-weight: bold;
+  padding: 5px;
+  
+}
+
+.second-header{
+  color: #203262;
+  font-size: 1.4rem !important;
+  letter-spacing: -0.2px !important;
+  
+  
+}
+
+.second-header__span{
+  color: #01B66B !important;
+  font-weight: 700;
+
+}
+
+textarea{
+  outline: none;
+  box-shadow:none !important;
+  border:1px solid #ccc !important;
+  box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 5px !important;
+}
+
+
+
+
+h2 {
+  font-size: 1.3rem !important;
+  font-weight: 100 !important;
+  color: #203262 !important;
+ 
+}
+
+.countResults{
+  font-weight: 700 !important;
+  color: #01B66B !important;
+  font-size: 2rem !important;
+  
+}
+
+#readingTime{
+  font-weight: 700 !important;
+  color: #01B66B !important;
+ 
+}
+
+.resultsContainer{
+  box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5) !important;
+  border-radius: 5px !important;
+  padding: 8px !important;
+  
+ 
+
+}
+
+.header-paragraph{
+  color: #203262;
+  font-weight: bold;
+}
+
+.paragraph{
+  font-weight: 200;
+  font-size: 18px;
+  
+}
+
+.link__social{
+  color: #203262 !important;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+.footer-copyright{
+  background-color: #203262 !important;
+}
+.footer--link{
+  color: #ffffff !important;
+}
+.footer-copyright{
+  color: #ffffff !important;
+}
+
+
+
+
+
